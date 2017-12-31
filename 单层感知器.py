@@ -4,7 +4,7 @@
 # 微信公众号：深度学习与神经网络  
 # Github：https://github.com/Qinbf  
 # 优酷频道：http://i.youku.com/sdxxqbf  
-
+#####
 # In[ ]:
 
 import numpy as np
